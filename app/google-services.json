@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "355994799850",
+    "project_id": "socialintegration-157916"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355994799850:android:6734a66cf61696a6",
+        "android_client_info": {
+          "package_name": "assignment.android.acadgild.socialintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355994799850-r7r6mptq980hen8m2pho9eq929dhrpcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjdPq0Z1zit8sIVmohniePy42nAZK0zo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
